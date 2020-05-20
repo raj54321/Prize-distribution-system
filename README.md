@@ -1,1 +1,11 @@
-Made this project for my University to generate the Certificates for achievers of any event happens in the university.To make this project we used Core PHP,HTML/CSS for front-end and Mysql for database Management.For the mass insertion we used insertion using uploading (.csv) file.
+# Prize-distribution-system
+It is a certificate generator in php.
+you will require database to use this project.
+To run this project use xampp server for database.
+And to edit and use project you can use netbeans.
+For use clone this project using this link https://github.com/raj54321/Prize-distribution-system 
+
+# Contributers
+
+-Raj Prajapati
+-Parth Patel
